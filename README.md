@@ -1,2 +1,2 @@
 # notebooks
-Collection of data anlyses in Notebooks
+Collection of data analyses in Notebooks
